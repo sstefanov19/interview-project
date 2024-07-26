@@ -1,8 +1,9 @@
+import Data from "./component/Data"
 function App() {
 
   return (
     <>
-      <h1 className="flex justify-center  text-center">Interview</h1>
+      <Data />
     </>
   )
 }
